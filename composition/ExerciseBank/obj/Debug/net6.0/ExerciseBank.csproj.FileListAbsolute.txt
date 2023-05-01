@@ -1,0 +1,15 @@
+/home/camila/Área de Trabalho/All/Github/Projetos/object-oriented-programming/composition/ExerciseBank/obj/Debug/net6.0/ExerciseBank.csproj.AssemblyReference.cache
+/home/camila/Área de Trabalho/All/Github/Projetos/object-oriented-programming/composition/ExerciseBank/obj/Debug/net6.0/ExerciseBank.GeneratedMSBuildEditorConfig.editorconfig
+/home/camila/Área de Trabalho/All/Github/Projetos/object-oriented-programming/composition/ExerciseBank/obj/Debug/net6.0/ExerciseBank.AssemblyInfoInputs.cache
+/home/camila/Área de Trabalho/All/Github/Projetos/object-oriented-programming/composition/ExerciseBank/obj/Debug/net6.0/ExerciseBank.AssemblyInfo.cs
+/home/camila/Área de Trabalho/All/Github/Projetos/object-oriented-programming/composition/ExerciseBank/obj/Debug/net6.0/ExerciseBank.csproj.CoreCompileInputs.cache
+/home/camila/Área de Trabalho/All/Github/Projetos/object-oriented-programming/composition/ExerciseBank/bin/Debug/net6.0/ExerciseBank
+/home/camila/Área de Trabalho/All/Github/Projetos/object-oriented-programming/composition/ExerciseBank/bin/Debug/net6.0/ExerciseBank.deps.json
+/home/camila/Área de Trabalho/All/Github/Projetos/object-oriented-programming/composition/ExerciseBank/bin/Debug/net6.0/ExerciseBank.runtimeconfig.json
+/home/camila/Área de Trabalho/All/Github/Projetos/object-oriented-programming/composition/ExerciseBank/bin/Debug/net6.0/ExerciseBank.dll
+/home/camila/Área de Trabalho/All/Github/Projetos/object-oriented-programming/composition/ExerciseBank/bin/Debug/net6.0/ref/ExerciseBank.dll
+/home/camila/Área de Trabalho/All/Github/Projetos/object-oriented-programming/composition/ExerciseBank/bin/Debug/net6.0/ExerciseBank.pdb
+/home/camila/Área de Trabalho/All/Github/Projetos/object-oriented-programming/composition/ExerciseBank/obj/Debug/net6.0/ExerciseBank.dll
+/home/camila/Área de Trabalho/All/Github/Projetos/object-oriented-programming/composition/ExerciseBank/obj/Debug/net6.0/ref/ExerciseBank.dll
+/home/camila/Área de Trabalho/All/Github/Projetos/object-oriented-programming/composition/ExerciseBank/obj/Debug/net6.0/ExerciseBank.pdb
+/home/camila/Área de Trabalho/All/Github/Projetos/object-oriented-programming/composition/ExerciseBank/obj/Debug/net6.0/ExerciseBank.genruntimeconfig.cache
